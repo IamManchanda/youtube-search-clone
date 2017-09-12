@@ -25,3 +25,10 @@ Click [here](https://github.com/IamManchanda/youtube-search-clone/releases) then
 ### Server
 
 Server will start on port `8080`
+
+### API_KEY
+
+You would not API Key for running this
+Get it from here => https://console.developers.google.com/
+
+Then update the key [here](https://github.com/IamManchanda/youtube-search-clone/blob/master/src/index.jsx#L22)
